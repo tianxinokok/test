@@ -3,6 +3,6 @@ function test(){
 }
 test()
 function test2(){
-    console.log('这是一个冲突')
+    console.log('这是master分支')
 }
 test2()
