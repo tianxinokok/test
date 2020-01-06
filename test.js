@@ -3,6 +3,6 @@ function test(){
 }
 test()
 function test2(){
-    console.log('tianxin的分支')
+    console.log('这是一个冲突')
 }
 test2()
